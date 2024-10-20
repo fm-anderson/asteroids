@@ -1,0 +1,31 @@
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+sdist/
+wheels/
+*.egg
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
